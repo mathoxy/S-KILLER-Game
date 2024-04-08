@@ -2,9 +2,9 @@
 
 ![S KILLER GAME screenshot](screenshot.png)
 
-This is a simple killer game implemented in Python using **Pygame library**. In this simple game you embody a shinobi
+This is a simple killer game implemented in Python using **Pygame library**. In this simple game, you embody a shinobi.
 
-## Table of contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
@@ -13,48 +13,46 @@ This is a simple killer game implemented in Python using **Pygame library**. In 
 - [Contributing](#contributing)
 - [Others](#others)
 
-
 ## Introduction
-S KILLER or Shinobi Killer is a simple platformer game in which you can embody a shinoby.<br>
-To survive, you must avoid several dangers including some enemies. You are also able to fight the ennemies to increase your score.
+S KILLER or Shinobi Killer is a simple platformer game in which you can embody a shinobi. Your primary objective is to survive amidst various dangers, including enemies. Additionally, you have the ability to engage in combat with these enemies to increase your score and progress further in the game.
 
 ## Features
 
-- Classic survive game
-- User-friendly interface built with Pygame
-- Classic moves are supported with the player
-- Fighting move possible
-- Display the current life and the current score
+- **Classic Survival Gameplay:** S KILLER offers a classic survival gaming experience, where your agility and strategic thinking are put to the test.
+- **User-friendly Interface:** The game boasts a user-friendly interface built with Pygame, ensuring smooth navigation and interaction for players of all skill levels.
+- **Fluid Movement Mechanics:** Enjoy responsive movement controls that allow you to maneuver your shinobi avatar effortlessly through the game's challenges and obstacles.
+- **Dynamic Combat System:** Engage in thrilling combat encounters with enemies scattered throughout the game world. Utilize your shinobi's martial prowess to defeat foes and advance in the game.
+- **Life and Score Tracking:** Keep track of your progress with real-time indicators for remaining lives and current score. Monitor your performance and strive to achieve high scores with each playthrough.
 
 ## Installation
-1. Make sure you have Python3 installed and Pygame library
-2. Download all the files in the repository
-3. Make sure to have all of the files in the same floder
-4. Run the main.py file
-5. Enjoy !!!
+To embark on your shinobi adventure, follow these simple steps:
+1. Ensure you have Python3 installed along with the Pygame library.
+2. Download all the files from the repository.
+3. Place all downloaded files in the same folder for easy access.
+4. Run the `main.py` file.
+5. Enjoy the thrilling gameplay experience!
 
 ## Controls
-- Click on the play button or press the space key to start
-- Use the arrow keys on your keybord to move the player
-- Use the a key on your keyboard to fight the ennemies
-- Use close icon to quit the game
+Master the controls to navigate the game world effectively:
+- **Play Button/Space Key:** Initiate gameplay by clicking on the play button or pressing the space key.
+- **Movement:** Use the arrow keys on your keyboard to move the player character.
+- **Combat:** Engage in combat encounters by pressing the 'A' key on your keyboard.
+- **Quit:** Exit the game at any time by clicking on the close icon.
 
 ## Rules 
-- You start a new game with 5 lives ❤️ ❤️ ❤️ ❤️ ❤️
-- You lose one live in your lives if you leave the playing area ☹️!!!
-- You lose 0.005 live in your lives if you are touched by one ennemy
-- Your score will be increased by one if you kill one ennemy😎
+To succeed in S KILLER, adhere to the following rules:
+- **Starting Lives:** Begin the game with a total of 5 lives, symbolized by heart icons.
+- **Life Reduction:** Lose one life if your character ventures outside the playing area.
+- **Enemy Encounters:** Encounter enemy units throughout the game. Sustain a minor life reduction if touched by an enemy.
+- **Scoring:** Earn one point for each enemy defeated, contributing to your overall score.
 
 ## Contributing
-Feel free to to sbmit a pull request if you find any issues or you want to improve the game.
-All contributions are welcome!
+S KILLER welcomes contributions from the gaming community:
+- **Feedback:** Provide feedback and suggestions to enhance the gameplay experience.
+- **Bug Fixes:** Report any issues or bugs encountered during gameplay.
+- **Enhancements:** Submit pull requests with improvements or additional features to enrich the game.
 
 ## Others 
-### Some links
-- Video Demo [here](https://www.youtube.com/watch?v=SLT2Xq3L7jg)
-- Folder with executable file [here](https://drive.google.com/drive/folders/1Bbj8UocrM8y-QTQmxsdpr_huQWqLU0Rz?usp=sharing)
-
-
-
-
-
+Explore additional resources related to S KILLER:
+- **Video Demo:** Watch a video demonstration of the gameplay experience [here](https://www.youtube.com/watch?v=SLT2Xq3L7jg).
+- **Executable File:** Access a folder containing the executable file for convenient installation [here](https://drive.google.com/drive/folders/1Bbj8UocrM8y-QTQmxsdpr_huQWqLU0Rz?usp=sharing).
