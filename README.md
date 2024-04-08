@@ -44,7 +44,7 @@ To succeed in S KILLER, adhere to the following rules:
 - **Starting Lives:** Begin the game with a total of 5 lives, symbolized by heart icons.
 - **Life Reduction:** Lose one life if your character ventures outside the playing area.
 - **Enemy Encounters:** Encounter enemy units throughout the game. Sustain a minor life reduction if touched by an enemy.
-- **Scoring:** Earn one point for each enemy defeated, contributing to your overall score.
+- **Scoring:** Earn ten points for each enemy defeated, contributing to your overall score.
 
 ## Contributing
 S KILLER welcomes contributions from the gaming community:
