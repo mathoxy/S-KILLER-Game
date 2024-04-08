@@ -52,13 +52,9 @@ All contributions are welcome!
 ## Others 
 ### Some links
 - Video Demo [here](https://www.youtube.com/watch?v=SLT2Xq3L7jg)
--
+- Folder with executable file [here](https://drive.google.com/drive/folders/1Bbj8UocrM8y-QTQmxsdpr_huQWqLU0Rz?usp=sharing)
 
 
 
 
 
-
-
-#### Video Demo:  <URL HERE>
-#### Description
